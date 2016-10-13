@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-website-url.com/"
+baseurl = "https://gauravkhandelwal.herokuapp.com/"
 title = "Gaurav Khandelwal"
 copyright = "&copy; 2016 Gaurav Khandelwal"
 languageCode = "en-us"
